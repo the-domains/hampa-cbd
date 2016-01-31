@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hampa CBD]]></title>
         <description><![CDATA[Hampa CBD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hampa-cbd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 21:34:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 21:45:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hampa-cbd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Most people have heard of a chemical called THC, which is the ingredient in marijuana that gets users high. But recently, attention has shifted to another compound in marijuana called CBD — and for good reason.</p>]]></description>
-            <link>undefined53f01b9c-d8ef-44a0-9ee6-45385b6db2bb/index.html</link>
+            <link>https://thegrid.ai/hampa-cbd/53f01b9c-d8ef-44a0-9ee6-45385b6db2bb/index.html</link>
             <guid isPermaLink="false">53f01b9c-d8ef-44a0-9ee6-45385b6db2bb</guid>
-            <pubDate>Sun, 31 Jan 2016 21:34:04 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 21:45:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
